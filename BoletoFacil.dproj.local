@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/27 11:03:24.000.088,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/27 11:30:18.000.615,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/29 23:10:54.000.885,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/31 11:04:01.000.373,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/18 23:45:16.000.968,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/25 00:57:21.000.917,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/13 21:03:13.000.257,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/13 21:03:54.000.130,C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uPrincipal.fmx=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/01/13 21:03:54.000.130,C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uPrincipal.pas=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/13 21:04:17.000.561,C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\BoletoFacil.dproj=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/13 21:04:35.000.671,C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uFrmPrincipal.pas=C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uPrincipal.pas</Transaction>
+    <Transaction>2021/01/13 21:04:35.000.671,C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uFrmPrincipal.fmx=C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uPrincipal.fmx</Transaction>
+    <Transaction>2021/01/13 21:05:15.000.012,=C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\Unit1.pas</Transaction>
+    <Transaction>2021/01/13 21:05:26.000.371,C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uBoletoFacil.pas=C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\Unit1.pas</Transaction>
+    <Transaction>2021/01/13 21:05:48.000.318,C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uJuno.pas=C:\Users\marce\Documents\GitHub\Desenvolvee\Projetos\Servidor\Integração Juno\uBoletoFacil.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>  <PMacOS iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
